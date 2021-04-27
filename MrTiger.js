@@ -1,5 +1,5 @@
 
-// 20 token dane   
+// 100 token dane   
 //
 const Discord = require("discord.js");
 const Canvas = require("canvas");
